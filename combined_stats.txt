@@ -1,0 +1,1 @@
+{'Total trades': 1675, 'Unique days': 141, 'Average trades': 11.879432624113475, 'Total pnl': 635766.2499999998, 'Profit Trades': 558, 'Loss Trades': 1117}
