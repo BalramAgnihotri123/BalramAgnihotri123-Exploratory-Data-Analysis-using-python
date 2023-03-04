@@ -1,1 +1,1 @@
-This Repository consists Jupyter Notebooks in which Exploratory Data Analysis is performed using tools like Pandas, numpy, Matplotlib, seaborn, plotly and many more.
+This Repository consists Jupyter notebooks in which Exploratory Data Analysis is performed using tools like Pandas, numpy, Matplotlib, seaborn, plotly and many more.
